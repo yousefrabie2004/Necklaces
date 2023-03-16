@@ -1,0 +1,96 @@
+.body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: cormorant,sans-serif;
+}
+header {
+        min-height:calc(100vh - 79px);
+        background:url(../images/7.jpg)  ;
+        background-position: center;
+        background-size: cover;
+        opacity: 100%;
+        
+}
+.M4{
+    color: #034294;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.navbar .nav-link {
+    color: #034294;
+    font-family: 'Lora', serif;
+}
+.dropdown-menu {
+    color: #034294;
+    font-family: 'Lora', serif;
+    margin-top: 10px;
+}
+/*star text*/
+.text {
+    text-align: center;
+    justify-content: center;
+    padding-top: 20vh;
+}
+.text h1 {
+    color: #02306c;
+    font-family: 'Lora', serif;
+    margin-bottom: 20px;
+}
+.text h2 {
+    color: #04316a;
+    font-family: cormorant,sans-serif;
+    font-weight: 500;
+}
+.text p {
+    color: #ffffff;
+    font-family: 'Lora', serif;
+}
+.text h4 {
+    color: #04316a;
+    font-family: 'Playfair Display', serif;
+    margin-top: 150px;
+}
+/*end text*/
+/*start story*/
+.story h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: #02306c;
+    font-family: 'Lora', serif;
+    margin-bottom: 20px;
+}
+.story p {
+    color: #02306c;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+.story h5 {
+    text-align: center;
+    color: #034294;
+    font-family: 'Lora', serif;
+}
+/*end story*/
+/*start neck*/
+.Necklaces h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: #02306c;
+    font-family: 'Lora', serif;
+    margin-bottom: 20px;
+}
+.Necklaces p {
+    color: #02306c;
+    text-align: center;   
+    font-family: 'Dancing Script', cursive;
+
+}
+/*end neck*/
